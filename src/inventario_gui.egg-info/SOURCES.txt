@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/inventario_gui/__init__.py
+src/inventario_gui/app.py
+src/inventario_gui/gui.py
+src/inventario_gui.egg-info/PKG-INFO
+src/inventario_gui.egg-info/SOURCES.txt
+src/inventario_gui.egg-info/dependency_links.txt
+src/inventario_gui.egg-info/requires.txt
+src/inventario_gui.egg-info/top_level.txt

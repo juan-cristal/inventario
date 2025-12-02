@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: inventario-gui
+Version: 0.1.0
+Summary: Inventory Manager with Tkinter GUI and SQLite
+Author: Juan Sebastián Cristal
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: colorama>=0.4.6
+
+# Inventario GUI
+
+A professional Inventory Manager with Tkinter GUI and SQLite.
+
+## Running
+
